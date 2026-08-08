@@ -8,9 +8,11 @@ All contents of this project are exclusively for pure technical learning, techni
 
 # Project Warning
 
-@Author: LYSHARK
-@Website: https://www.lyshark.com
-@Description: This project is intended solely for technical research, exchange and exploration, to inspire technical learning and idea‑exploration.
+Author: LYSHARK
+
+Website: https://www.lyshark.com
+
+Description: This project is intended solely for technical research, exchange and exploration, to inspire technical learning and idea‑exploration.
 
 ## Important Legal Statement and Usage Restrictions
 
