@@ -29,3 +29,5 @@ This project code is provided “as‑is”, without any express or implied warr
 # Rendering
 
 <img width="1360" height="805" alt="image" src="https://github.com/user-attachments/assets/02ede95c-cd39-47ff-90f2-c89fce8e3c9c" />
+
+<img width="1412" height="806" alt="image" src="https://github.com/user-attachments/assets/4af68c08-599b-4a1b-b6d9-13238aba8bd2" />
