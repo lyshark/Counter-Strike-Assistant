@@ -25,3 +25,7 @@ Description: This project is intended solely for technical research, exchange an
 ## Disclaimer Notice
 
 This project code is provided “as‑is”, without any express or implied warranties. No responsibility shall be assumed for operational risks or consequences of use.
+
+# Rendering
+
+<img width="1360" height="805" alt="image" src="https://github.com/user-attachments/assets/02ede95c-cd39-47ff-90f2-c89fce8e3c9c" />
