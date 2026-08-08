@@ -8,23 +8,19 @@ All contents of this project are exclusively for pure technical learning, techni
 
 # Project Warning
 
-Author: LYSHARK
-
-Website: https://www.lyshark.com
-
 Description: This project is intended solely for technical research, exchange and exploration, to inspire technical learning and idea‑exploration.
 
 ## Important Legal Statement and Usage Restrictions
 
-1.All code and resources of this project are for learning and research purposes only. It is strictly prohibited to use the source code or modified code snippets, directly or indirectly, in any scenario that violates national laws and regulations.
+ - All code and resources of this project are for learning and research purposes only. It is strictly prohibited to use the source code or modified code snippets, directly or indirectly, in any scenario that violates national laws and regulations.
 
-2.By using, copying, modifying or distributing any code from this project, the user signifies full acceptance of all terms set forth in this statement.
+ - By using, copying, modifying or distributing any code from this project, the user signifies full acceptance of all terms set forth in this statement.
 
-3.The user shall bear full and independent liability for all direct and indirect consequences arising from any improper use of this code. The project author shall not assume any legal or joint‑and‑several liability.
+ - The user shall bear full and independent liability for all direct and indirect consequences arising from any improper use of this code. The project author shall not assume any legal or joint‑and‑several liability.
 
-4.Without prior permission from the author, this project must not be used in commercial projects, profit‑making products, unauthorized testing, unauthorised attacks or other such activities.
+ - Without prior permission from the author, this project must not be used in commercial projects, profit‑making products, unauthorized testing, unauthorised attacks or other such activities.
 
-5.This code is protected by copyright‑related laws. Tampering with or removing this header copyright notice without permission is prohibited.
+ - This code is protected by copyright‑related laws. Tampering with or removing this header copyright notice without permission is prohibited.
 
 ## Disclaimer Notice
 
